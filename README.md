@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @0xNomind
+- 👀 I’m interested in blockchain
+- 🌱 I’m currently learning solidity
